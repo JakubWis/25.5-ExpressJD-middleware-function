@@ -1,1 +1,0 @@
-https://jakubwis.github.io/25.5-ExpressJD-middleware-function/
